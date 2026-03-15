@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Siva Balaji 👋</h1>
+<h1 align="center">Hey, I'm Siva Balaji </h1>
 
 <p align="center">
   <b>AI & Backend Developer · Building things that think, retrieve, and respond</b><br/>
@@ -6,13 +6,19 @@
 </p>
 
 <p align="center">
+  <a href="https://manakavoo.pages.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=google-chrome&logoColor=white">
+</a>
+  
   <img src="https://komarev.com/ghpvc/?username=Manakavoo&style=flat&color=blueviolet&label=Profile+Views" alt="profile views"/>
   <a href="https://github.com/Manakavoo?tab=followers">
     <img src="https://img.shields.io/github/followers/Manakavoo?label=Followers&style=flat&color=0969da" />
   </a>
+  
   <a href="https://leetcode.com/u/user5926O/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" />
   </a>
+  <Br>
   <a href="https://medium.com/@sivabalajimanakavoo">
     <img src="https://img.shields.io/badge/Medium-Blog-12100E?logo=medium&logoColor=white" />
   </a>
